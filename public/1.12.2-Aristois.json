@@ -1,0 +1,43 @@
+{
+  "libraries": [
+    {
+      "name": "net.minecraft:launchwrapper:1.12",
+      "url": "https://libraries.minecraft.net/"
+    },
+    {
+      "name": "org.dimdev:mixin:0.7.11-SNAPSHOT",
+      "url": "https://gitlab.com/EMC-Framework/maven/raw/master/"
+    },
+    {
+      "name": "net.jodah:typetools:0.5.0",
+      "url": "https://repo.maven.apache.org/maven2/"
+    },
+    {
+      "name": "org.ow2.asm:asm-all:5.2",
+      "url": "https://repo1.maven.org/maven2/"
+    },
+    {
+      "name": "com.mojang:brigadier:1.0.17",
+      "url": "https://libraries.minecraft.net/"
+    },
+    {
+      "name": "com.thealtening.auth:auth:3.0.2",
+      "url": "https://repo.maven.apache.org/maven2/"
+    },
+    {
+      "name": "me.deftware:aristois:loader",
+      "url": "https://maven.aristois.net/"
+    },
+    {
+      "name": "me.deftware:EMC:latest-1.12.2",
+      "url": "https://gitlab.com/EMC-Framework/maven/raw/master/"
+    }
+  ],
+  "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --tweakClass me.deftware.launch.Launcher",
+  "mainClass": "net.minecraft.launchwrapper.Launch",
+  "id": "1.12.2-Aristois",
+  "time": "2023-08-31T16:19:40+00:00",
+  "releaseTime": "2023-08-31T16:19:40+00:00",
+  "inheritsFrom": "1.12.2",
+  "type": "release"
+}
