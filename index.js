@@ -2,7 +2,7 @@ const colors = require('colors'); // to get a nice console
 
 // instant advertising
 console.log(" ╔═══════════════════════════════════════════════════════════════╗".brightCyan)
-console.log(" ║   Trxyy's Alternative-api NodeJs server v2.0 by Ikoko    ║".brightCyan)
+console.log(" ║   FG Launcher by Ikoko    ║".brightCyan)
 console.log(" ╚═══════════════════════════════════════════════════════════════╝".brightCyan)
 
 const fs = require('fs');
@@ -87,7 +87,7 @@ app.get('/files', async function(req, res) {
 
 // not to display an ugly empty page
 app.get('/', function(req, res) {
-    res.send(`Trxyy's alternative lib download server by <a href="https://chaun14.fr/">chaun14</a>`)
+    res.send(`FG Launcher`)
 });
 
 // management of launcher activation
