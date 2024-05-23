@@ -1,1 +1,3 @@
-FG-Launcher
+# FG-Launcher
+
+Minecraft Launcher
