@@ -1390,7 +1390,7 @@
                     "path": "optifine/OptiFine/1.16.5_HD_U_G8/OptiFine-1.16.5_HD_U_G8.jar",
                     "sha1": "d3dca4a647354aa2fce3d265ba177524f0d6c023",
                     "size": 0,
-                    "url": "http://127.0.0.1/alternative_versions/libraries/optifine/OptiFine/1.16.5_HD_U_G8/OptiFine-1.16.5_HD_U_G8.jar"
+                    "url": "https://fg-launcher.onrender.com/optifine-1.16.5/OptiFine-1.16.5_HD_U_G8.jar"
                 }
             }
     },
@@ -1401,7 +1401,7 @@
                     "path": "optifine/launchwrapper-of/2.2/launchwrapper-of-2.2.jar",
                     "sha1": "48d08d4b6d7b74b8c304c0a5bdb244a081c54175",
                     "size": 0,
-                    "url": "http://127.0.0.1/alternative_versions/libraries/optifine/launchwrapper-of/2.2/launchwrapper-of-2.2.jar"
+                    "url": "https://fg-launcher.onrender.com/optifine-1.16.5/launchwrapper-of-2.2.jar"
                 }
             }
     }
